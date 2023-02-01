@@ -1,0 +1,19 @@
+{
+  "name": "app34",
+  "version": "1.0.0",
+  "description": "pagina WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseDYZ/App34.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseDYZ/App34/issues"
+  },
+  "homepage": "https://github.com/joseDYZ/App34#readme"
+}
